@@ -1,0 +1,12 @@
+#settings
+
+#TD ignore backups
+TouchDesigner/App/Backup/*
+TouchDesigner/App/LightFloor.*.toe
+
+#ignore mac ini
+*.ini
+
+# Mac OS X cruft
+.DS_Store
+

@@ -1,0 +1,14 @@
+{
+    "hallway_num_panel_x": 17, 
+    "hallway_num_panel_y": 3,
+    "room_num_panel_x": 9, 
+    "room_num_panel_y": 8, 
+    "ndi_panel_width":8,
+    "panel_res_x" : 84,
+    "panel_res_y" : 84,
+    "ndi_res_x": 120,
+    "ndi_res_y": 88,
+    "source_name" : "TOUCHCONTROLLER (Touch Controller NDI)",
+    "extra_search_ips" : "192.168.10.1",
+	"use_semaphore_panel_info" : 0
+}
