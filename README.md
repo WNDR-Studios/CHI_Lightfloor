@@ -1,5 +1,5 @@
-# WNDR Painting Remix
-This repo contains the TouchDesigner application for an interactive piece titled: **Light Floor**. 
+# WNDR Chicago Light Floor
+This repo contains the TouchDesigner application for the Chicago Light floor 
 
 ## TouchDesigner Version
-Build 2022.26590
+Build 2022.35320
